@@ -8,25 +8,22 @@ In this project, our firm was asked to analyze ride-sharing data by city type. A
 
 Here are the differences between each city:
 
-* Urban: 
+* Urban Data: 
   * highest number of rides and drivers
-  * lowest average fare per ride and 
-  * lowest average fare per driver
-  * highest total fare
+  * lowest average fare per ride & per driver
+  * highest total fares
 
-* Suburban: 
-  * fewer rides than urban cities (50%)
-  * fewer drivers compared to urban cities (20%)
-  * higher average fare per ride than urban rides (about $6 more) 
-  * average fare per driver higher than urban cities (about 200%)
-  * total fares lower than urban (50%)
+* Suburban Data: 
+  * fewer rides & drivers compared to urban cities
+  * higher than average fare per ride & per driver 
+  * total fares lower (50% of urban total)
 
-* Rural: 
-  * Rural cities came out with the lowest number of rides and drivers. 
-  * Rural cities also had the highest average fare per ride and per driver. 
-  * The total fares for rural cities was way less than suburban and urban total fares.
+* Rural Data: 
+  * lowest number of rides and drivers. 
+  * highest average fare per ride and per driver
+  * lowest total fares (~11% of urban total)
 
-See below for the results by city:
+Detailed Analysis provided in these images:
 
 <img src="analysis/pyber_summary.png"/>
 
@@ -34,4 +31,7 @@ See below for the results by city:
 
 ## Summary
 
-To address the disparities among types of cities, here are my recommendations:
+Disparities exist across city types based on a wide variety of factors. Three recomendations:
+1. First, the company should
+1. Next, the company should
+1. Finally, the company should
